@@ -1,0 +1,22 @@
+ #######################################
+# Syntax Coloring Map For Turbidity lib
+######################################## 
+# Class
+#######################################
+
+Turbidity	KEYWORD1
+WSNTurbiditySensor KEYWORD1
+
+#######################################
+# Methods and Functions 
+#######################################	
+init KEYWORD2
+moyenne KEYWORD2
+getMesure KEYWORD2
+updateTurbidity KEYWORD2
+
+#######################################
+# Constants
+#######################################
+
+SensorPinTurbidity LITERAL1
